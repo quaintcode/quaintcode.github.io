@@ -1,74 +1,74 @@
 {
    "theme":[
       {
-         "_url":"com.danelab.beautiful.battery.theme.bubblesgreen",
-         "_thumbnailUrl":"https://quaintcode.github.io/battery/preview_bubbles_green.png",
-         "_name":"Bubbles Green"
+         "package":"com.danelab.beautiful.battery.theme.bubblesgreen",
+         "preview":"https://quaintcode.github.io/battery/preview_bubbles_green.png",
+         "name":"Bubbles Green"
       },
       {
-         "_url":"com.danelab.beautiful.battery.theme.bubblesorange",
-         "_thumbnailUrl":"https://quaintcode.github.io/battery/preview_bubbles_orange.png",
-         "_name":"Bubbles Orange"
+         "package":"com.danelab.beautiful.battery.theme.bubblesorange",
+         "preview":"https://quaintcode.github.io/battery/preview_bubbles_orange.png",
+         "name":"Bubbles Orange"
       },
       {
-         "_url":"com.danelab.beautiful.battery.theme.bubblespink",
-         "_thumbnailUrl":"https://quaintcode.github.io/battery/preview_bubbles_pink.png",
-         "_name":"Bubbles Pink"
+         "package":"com.danelab.beautiful.battery.theme.bubblespink",
+         "preview":"https://quaintcode.github.io/battery/preview_bubbles_pink.png",
+         "name":"Bubbles Pink"
       },
       {
-         "_url":"com.danelab.beautiful.battery.theme.hitech",
-         "_thumbnailUrl":"https://quaintcode.github.io/battery/preview_hitech.png",
-         "_name":"Hi-Tech"
+         "package":"com.danelab.beautiful.battery.theme.hitech",
+         "preview":"https://quaintcode.github.io/battery/preview_hitech.png",
+         "name":"Hi-Tech"
       },
       {
-         "_url":"com.danelab.beautiful.battery.theme.hitech.nature",
-         "_thumbnailUrl":"https://quaintcode.github.io/battery/preview_hitech_green.png",
-         "_name":"Hi-Tech Green"
+         "package":"com.danelab.beautiful.battery.theme.hitech.nature",
+         "preview":"https://quaintcode.github.io/battery/preview_hitech_green.png",
+         "name":"Hi-Tech Green"
       },
       {
-         "_url":"com.danelab.beautiful.battery.theme.hitech.fire",
-         "_thumbnailUrl":"https://quaintcode.github.io/battery/preview_hitech_fire.png",
-         "_name":"Hi-Tech Fire"
+         "package":"com.danelab.beautiful.battery.theme.hitech.fire",
+         "preview":"https://quaintcode.github.io/battery/preview_hitech_fire.png",
+         "name":"Hi-Tech Fire"
       },
       {
-         "_url":"com.danelab.beautiful.battery.theme.evolution",
-         "_thumbnailUrl":"https://quaintcode.github.io/battery/preview_evolution.png",
-         "_name":"Evolution"
+         "package":"com.danelab.beautiful.battery.theme.evolution",
+         "preview":"https://quaintcode.github.io/battery/preview_evolution.png",
+         "name":"Evolution"
       },
       {
-         "_url":"com.danelab.beautiful.battery.theme.wwfpanda",
-         "_thumbnailUrl":"https://quaintcode.github.io/battery/preview_wwf_panda.png",
-         "_name":"WWF Panda"
+         "package":"com.danelab.beautiful.battery.theme.wwfpanda",
+         "preview":"https://quaintcode.github.io/battery/preview_wwf_panda.png",
+         "name":"WWF Panda"
       },
       {
-         "_url":"com.danelab.beautiful.battery.theme.caskblue",
-         "_thumbnailUrl":"https://quaintcode.github.io/battery/preview_cask_blue.png",
-         "_name":"Cask Blue"
+         "package":"com.danelab.beautiful.battery.theme.caskblue",
+         "preview":"https://quaintcode.github.io/battery/preview_cask_blue.png",
+         "name":"Cask Blue"
       },
       {
-         "_url":"com.danelab.beautiful.battery.theme.caskgreen",
-         "_thumbnailUrl":"https://quaintcode.github.io/battery/preview_cask_green.png",
-         "_name":"Cask Green"
+         "package":"com.danelab.beautiful.battery.theme.caskgreen",
+         "preview":"https://quaintcode.github.io/battery/preview_cask_green.png",
+         "name":"Cask Green"
       },
       {
-         "_url":"com.danelab.beautiful.battery.theme.caskorange",
-         "_thumbnailUrl":"https://quaintcode.github.io/battery/preview_cask_orange.png",
-         "_name":"Cask Orange"
+         "package":"com.danelab.beautiful.battery.theme.caskorange",
+         "preview":"https://quaintcode.github.io/battery/preview_cask_orange.png",
+         "name":"Cask Orange"
       },
       {
-         "_url":"com.danelab.beautiful.battery.theme.caskpink",
-         "_thumbnailUrl":"https://quaintcode.github.io/battery/preview_cask_pink.png",
-         "_name":"Cask Pink"
+         "package":"com.danelab.beautiful.battery.theme.caskpink",
+         "preview":"https://quaintcode.github.io/battery/preview_cask_pink.png",
+         "name":"Cask Pink"
       },
       {
-         "_url":"com.danelab.beautiful.battery.theme.grungeblue",
-         "_thumbnailUrl":"https://quaintcode.github.io/battery/preview_grunge_blue.png",
-         "_name":"Grunge Blue"
+         "package":"com.danelab.beautiful.battery.theme.grungeblue",
+         "preview":"https://quaintcode.github.io/battery/preview_grunge_blue.png",
+         "name":"Grunge Blue"
       },
       {
-         "_url":"com.danelab.beautiful.battery.theme.grungegreen",
-         "_thumbnailUrl":"https://quaintcode.github.io/battery/preview_grunge_green.png",
-         "_name":"Grunge Green"
+         "package":"com.danelab.beautiful.battery.theme.grungegreen",
+         "preview":"https://quaintcode.github.io/battery/preview_grunge_green.png",
+         "name":"Grunge Green"
       }
    ]
 }
