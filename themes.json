@@ -1,5 +1,35 @@
 [
    {
+      "package":"com.danelab.battery.widget.themes.blackboard",
+      "preview":"https://quaintcode.github.io/preview_blackdesk.png",
+      "name":"Black Desk"
+   },
+   
+    {
+      "package":"com.danelab.battery.widget.themes.materialnature",
+      "preview":"https://quaintcode.github.io/preview_nature_sunset",
+      "name":"Nature Sunset"
+   },
+   
+      {
+      "package":"com.danelab.battery.widget.themes.materialnature",
+      "preview":"https://quaintcode.github.io/preview_nature_sloth",
+      "name":"Nature Sloth"
+   },
+   
+      {
+      "package":"com.danelab.battery.widget.themes.materialnature",
+      "preview":"https://quaintcode.github.io/preview_nature_birds",
+      "name":"Nature Birds"
+   },
+   
+      {
+      "package":"com.danelab.beautiful.battery.theme.bubblesgreen",
+      "preview":"https://quaintcode.github.io/preview_bubbles_green.png",
+      "name":"Bubbles Green"
+   },
+
+   {
       "package":"com.danelab.beautiful.battery.theme.bubblesgreen",
       "preview":"https://quaintcode.github.io/preview_bubbles_green.png",
       "name":"Bubbles Green"
