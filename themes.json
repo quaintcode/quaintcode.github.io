@@ -7,26 +7,20 @@
    
     {
       "package":"com.danelab.battery.widget.themes.materialnature",
-      "preview":"https://quaintcode.github.io/preview_nature_sunset",
+      "preview":"https://quaintcode.github.io/preview_nature_sunset.png",
       "name":"Nature Sunset"
    },
    
       {
       "package":"com.danelab.battery.widget.themes.materialnature",
-      "preview":"https://quaintcode.github.io/preview_nature_sloth",
+      "preview":"https://quaintcode.github.io/preview_nature_sloth.png",
       "name":"Nature Sloth"
    },
    
       {
       "package":"com.danelab.battery.widget.themes.materialnature",
-      "preview":"https://quaintcode.github.io/preview_nature_birds",
+      "preview":"https://quaintcode.github.io/preview_nature_birds.png",
       "name":"Nature Birds"
-   },
-   
-      {
-      "package":"com.danelab.battery.widget.themes.homersapien",
-      "preview":"https://quaintcode.github.io/preview_homersapien.png",
-      "name":"Homersapien"
    },
 
    {
